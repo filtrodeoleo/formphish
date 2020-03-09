@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:00:35	17373/17373	---MCZ	200	added ('OK')	text/html	date:Mon,%2009%20Mar%202020%2017:00:27%20GMT	https://github.com/login	github.com/login.html	(from )
+13:00:36	913/913	---M-Z	200	added ('OK')	text/plain	etag:W/%225e666d47-7bde%22	https://github.com/robots.txt		(from )
